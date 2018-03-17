@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 8f661036e53267844a226853b734da38
+timeCreated: 1508406702
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Demo-Walking_0
+    21300002: Demo-Walking_1
+    21300004: Demo-Walking_2
+    21300006: Demo-Walking_3
+    21300008: Demo-Walking_4
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demo-Walking_0
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 702
+        width: 182
+        height: 264
+      alignment: 9
+      pivot: {x: 0.57152617, y: 0.5067238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demo-Walking_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 711
+        width: 182
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5810004, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demo-Walking_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 401
+        width: 191
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5805476, y: 0.5068538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demo-Walking_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 403
+        width: 181
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5621136, y: 0.49773282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Demo-Walking_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 112
+        width: 184
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5810398, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

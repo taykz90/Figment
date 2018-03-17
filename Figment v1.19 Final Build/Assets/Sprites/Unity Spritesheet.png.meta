@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: dd6508ded14f25e459e40f094b7af49e
+timeCreated: 1509516784
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unity Spritesheet_0
+    21300002: Unity Spritesheet_1
+    21300004: Unity Spritesheet_2
+    21300006: Unity Spritesheet_3
+    21300008: Unity Spritesheet_4
+    21300010: Unity Spritesheet_5
+    21300012: Unity Spritesheet_6
+    21300014: Unity Spritesheet_7
+    21300016: Unity Spritesheet_8
+    21300018: Unity Spritesheet_9
+    21300020: Unity Spritesheet_10
+    21300022: Unity Spritesheet_11
+    21300024: Unity Spritesheet_12
+    21300026: Unity Spritesheet_13
+    21300028: Unity Spritesheet_14
+    21300030: Unity Spritesheet_15
+    21300032: Unity Spritesheet_16
+    21300034: Unity Spritesheet_17
+    21300036: Unity Spritesheet_18
+    21300038: Unity Spritesheet_19
+    21300040: Unity Spritesheet_20
+    21300042: Unity Spritesheet_21
+    21300044: Unity Spritesheet_22
+    21300046: Unity Spritesheet_23
+    21300048: Unity Spritesheet_24
+    21300050: Unity Spritesheet_25
+    21300052: Unity Spritesheet_26
+    21300054: Unity Spritesheet_27
+    21300056: Unity Spritesheet_28
+    21300058: Unity Spritesheet_29
+    21300060: Unity Spritesheet_30
+    21300062: Unity Spritesheet_31
+    21300064: Unity Spritesheet_32
+    21300066: Unity Spritesheet_33
+    21300068: Unity Spritesheet_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3843
+        width: 455
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 4112
+        width: 439
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 3981
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 3548
+        width: 501
+        height: 460
+      alignment: 9
+      pivot: {x: 0.34996268, y: 0.65838253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 3274
+        width: 681
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3436
+        width: 545
+        height: 320
+      alignment: 9
+      pivot: {x: 0.31659058, y: 0.5100769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 3194
+        width: 584
+        height: 317
+      alignment: 9
+      pivot: {x: 0.30307257, y: 0.503391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 2731
+        width: 681
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3063
+        width: 552
+        height: 317
+      alignment: 9
+      pivot: {x: 0.31413445, y: 0.5077986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2709
+        width: 490
+        height: 432
+      alignment: 9
+      pivot: {x: 0.35626745, y: 0.37923685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2668
+        width: 569
+        height: 320
+      alignment: 9
+      pivot: {x: 0.3065074, y: 0.5069519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2029
+        width: 453
+        height: 511
+      alignment: 9
+      pivot: {x: 0.6705104, y: 0.49612385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 2152
+        width: 303
+        height: 436
+      alignment: 9
+      pivot: {x: 0.57414865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2160
+        width: 303
+        height: 436
+      alignment: 9
+      pivot: {x: 0.57826763, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1455
+        width: 441
+        height: 530
+      alignment: 9
+      pivot: {x: 0.670659, y: 0.48505238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1806
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1715
+        width: 303
+        height: 398
+      alignment: 9
+      pivot: {x: 0.5676785, y: 0.50343513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1678
+        width: 303
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5831053, y: 0.49778908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1663
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1656
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1472
+        width: 349
+        height: 334
+      alignment: 9
+      pivot: {x: 0.81779486, y: 0.5415083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1326
+        width: 304
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5657196, y: 0.50334805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1622
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1212
+        width: 310
+        height: 424
+      alignment: 9
+      pivot: {x: 0.58719367, y: 0.5027713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 842
+        width: 443
+        height: 489
+      alignment: 9
+      pivot: {x: 0.69671315, y: 0.50405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 854
+        width: 460
+        height: 538
+      alignment: 9
+      pivot: {x: 0.6722213, y: 0.50736237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1072
+        width: 363
+        height: 349
+      alignment: 9
+      pivot: {x: 0.8219068, y: 0.47730017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1065
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 723
+        width: 303
+        height: 443
+      alignment: 9
+      pivot: {x: 0.5692199, y: 0.51235044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 241
+        width: 438
+        height: 552
+      alignment: 9
+      pivot: {x: 0.69443697, y: 0.51076365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 273
+        width: 438
+        height: 547
+      alignment: 9
+      pivot: {x: 0.68087167, y: 0.5181035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 791
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 679
+        width: 327
+        height: 320
+      alignment: 9
+      pivot: {x: 0.81494886, y: 0.5123779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 316
+        width: 336
+        height: 310
+      alignment: 9
+      pivot: {x: 0.79472387, y: 0.4808329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unity Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 236
+        width: 310
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5894437, y: 0.5091904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
